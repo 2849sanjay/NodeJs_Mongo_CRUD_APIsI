@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_mongo_crud_apisi",
+  "version": "1.0.0",
+  "description": "CRUD Operation of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "4.1",
+    "mongoose": "^6.10.0"
+  }
+}
