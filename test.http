@@ -1,6 +1,6 @@
 ### GET All Product
 
-
+GET http://localhost:4000/api/products HTTP/1.1
 
 
 
